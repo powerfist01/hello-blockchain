@@ -86,7 +86,7 @@ const HelloWorld = () => {
   //the UI of our component
   return (
     <div id="container">
-      <img id="logo" src={alchemylogo} alt="image"></img>
+      <img id="logo" src={alchemylogo} alt="MrPowerfist"></img>
       <button id="walletButton" onClick={connectWalletPressed}>
         {walletAddress.length > 0 ? (
           "Connected: " +
