@@ -63,7 +63,7 @@ const HelloWorld = () => {
         <p>
           {" "}
           🦊{" "}
-          <a target="_blank" href={`https://metamask.io/download.html`}>
+          <a target="_blank" href={`https://metamask.io/download.html`} rel="noreferrer">
             You must install Metamask, a virtual Ethereum wallet, in your
             browser.
           </a>
@@ -86,7 +86,7 @@ const HelloWorld = () => {
   //the UI of our component
   return (
     <div id="container">
-      <img id="logo" src={alchemylogo}></img>
+      <img id="logo" src={alchemylogo} alt="image"></img>
       <button id="walletButton" onClick={connectWalletPressed}>
         {walletAddress.length > 0 ? (
           "Connected: " +

@@ -41,7 +41,7 @@ export const connectWallet = async () => {
           <p>
             {" "}
             🦊{" "}
-            <a target="_blank" href={`https://metamask.io/download.html`}>
+            <a target="_blank" href={`https://metamask.io/download.html`} rel="noreferrer">
               You must install Metamask, a virtual Ethereum wallet, in your
               browser.
             </a>
@@ -83,7 +83,7 @@ export const getCurrentWalletConnected = async () => {
           <p>
             {" "}
             🦊{" "}
-            <a target="_blank" href={`https://metamask.io/download.html`}>
+            <a target="_blank" href={`https://metamask.io/download.html`} rel="noreferrer">
               You must install Metamask, a virtual Ethereum wallet, in your
               browser.
             </a>
@@ -127,7 +127,7 @@ export const updateMessage = async (address, message) => {
       status: (
         <span>
           ✅{" "}
-          <a target="_blank" href={`https://ropsten.etherscan.io/tx/${txHash}`}>
+          <a target="_blank" href={`https://ropsten.etherscan.io/tx/${txHash}`} rel="noreferrer">
             View the status of your transaction on Etherscan!
           </a>
           <br />
