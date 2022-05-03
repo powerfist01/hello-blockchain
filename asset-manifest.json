@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hello-blockchain/frontend/static/css/main.185901da.chunk.css",
+    "main.js": "/hello-blockchain/frontend/static/js/main.70c0dc05.chunk.js",
+    "main.js.map": "/hello-blockchain/frontend/static/js/main.70c0dc05.chunk.js.map",
+    "runtime-main.js": "/hello-blockchain/frontend/static/js/runtime-main.03a6a1f4.js",
+    "runtime-main.js.map": "/hello-blockchain/frontend/static/js/runtime-main.03a6a1f4.js.map",
+    "static/js/2.1ea0374c.chunk.js": "/hello-blockchain/frontend/static/js/2.1ea0374c.chunk.js",
+    "static/js/2.1ea0374c.chunk.js.map": "/hello-blockchain/frontend/static/js/2.1ea0374c.chunk.js.map",
+    "static/js/3.fdb1e597.chunk.js": "/hello-blockchain/frontend/static/js/3.fdb1e597.chunk.js",
+    "static/js/3.fdb1e597.chunk.js.map": "/hello-blockchain/frontend/static/js/3.fdb1e597.chunk.js.map",
+    "index.html": "/hello-blockchain/frontend/index.html",
+    "static/css/main.185901da.chunk.css.map": "/hello-blockchain/frontend/static/css/main.185901da.chunk.css.map",
+    "static/js/2.1ea0374c.chunk.js.LICENSE.txt": "/hello-blockchain/frontend/static/js/2.1ea0374c.chunk.js.LICENSE.txt",
+    "static/media/alchemylogo.f670e5f2.svg": "/hello-blockchain/frontend/static/media/alchemylogo.f670e5f2.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.03a6a1f4.js",
+    "static/js/2.1ea0374c.chunk.js",
+    "static/css/main.185901da.chunk.css",
+    "static/js/main.70c0dc05.chunk.js"
+  ]
+}
